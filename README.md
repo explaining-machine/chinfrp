@@ -1,1 +1,1 @@
-### Explaining Machine (chinfp)
+### Explaining Machine (chinfrp)
